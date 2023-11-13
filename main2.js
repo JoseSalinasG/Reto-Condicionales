@@ -18,7 +18,7 @@ switch (accion) {
     default:
         console.log( 'No se comprende la accion');
 };
-let numero = 2;
+let numero = 1;
 let autorizado = numero === 1 ? 'El numero ingresado es impar' : 'El numero ingresado es par';
 console.log(autorizado);
 
